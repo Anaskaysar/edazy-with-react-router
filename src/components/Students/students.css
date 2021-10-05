@@ -1,0 +1,11 @@
+.student-container{
+    background-color:#1ae9d4;
+}
+
+span{
+    background-color: #333;
+    text-align: center;
+    font-weight: 500;
+    overflow: hidden;
+    padding:5px;
+}

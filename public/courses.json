@@ -1,0 +1,63 @@
+[
+    {
+        "id": "C-1",
+        "index": 2,
+        "name":"Masters In Graphics Design",
+        "age": 28,
+        "img":"./courseimg/C-1.jpg",
+        "eyeColor": "green",
+        "intructor_name": "Kaysarul Anas",
+        "details":"Knowledge on Typography, color and compositions fundamentals. And be able to decide which typeface, color and pattern to use.Photo retouching and ManipulationBrand Collateral Design like Logo, Business Card. Letterhead, Menu etc to make a differential brand"
+    },
+    {
+        "id": "C-2",
+        "index": 2,
+        "name":"Singing With Lucinda Hooper",
+        "age": 28,
+        "img":"./courseimg/C-2.jpg",
+        "eyeColor": "green",
+        "intructor_name": "Lucinda Hooper",
+        "details":"This is singing class of Lucindra Hooper Where you will be able to learn pop and classical music"
+    },
+    {
+        "id": "C-3",
+        "index": 2,
+        "name":"Competitive Programming - Advanced",
+        "age": 28,
+        "img":"./courseimg/C-3.png",
+        "eyeColor": "green",
+        "intructor_name": "Jalal Uddin",
+        "details":"If you want to improve your algorithmic problem-solving skill and improve in National contests and Codeforces contests, you should enroll in this course. We will conduct the course in a suitable way for the students who can solve beginner-level problems. After completing this course, you should be able to cope with medium level algorithmic and data-structure problems which can improve your ranking in programming contests"
+
+    },
+    {
+        "id": "C-4",
+        "index": 2,
+        "name":"Improve Your English Communication Skills Specialization",
+        "age": 28,
+        "img":"./courseimg/C-4.jpeg",
+        "eyeColor": "green",
+        "intructor_name": "Gerry Landers",
+        "details":"Improve Your English Communication Skills. Write and speak more professionally in English to increase your business success."
+    },
+    {
+        "id": "C-5",
+        "index": 2,
+        "name":"Math Tutoring",
+        "age": 28,
+        "img":"./courseimg/C-5.png",
+        "eyeColor": "green",
+        "intructor_name": "Boris Hooper",
+        "details":"Learn online with professional tutors and connect with our community of learners"
+    },
+    {
+        "id": "C-6",
+        "index": 2,
+        "img":"./courseimg/C-6.png",
+        "name":"Design & Make Custom Sneakers",
+        "age": 28,
+        "eyeColor": "green",
+        "intructor_name": "Dominic Ciambrone",
+        "details":" Learn From The Best.Make a pair of custom sneakers from scratch in 30 days. During this one-month class, learn the complete craft of shoemaking. Finish the class with a set of lifelong skills and your own custom footwear."
+    }
+]
